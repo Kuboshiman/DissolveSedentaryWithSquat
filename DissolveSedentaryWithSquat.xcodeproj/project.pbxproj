@@ -1,0 +1,581 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		738B7F5128FFF9E90008666D /* DissolveSedentaryWithSquatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B7F5028FFF9E90008666D /* DissolveSedentaryWithSquatApp.swift */; };
+		738B7F5328FFF9E90008666D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B7F5228FFF9E90008666D /* ContentView.swift */; };
+		738B7F5528FFF9EB0008666D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 738B7F5428FFF9EB0008666D /* Assets.xcassets */; };
+		738B7F5828FFF9EB0008666D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 738B7F5728FFF9EB0008666D /* Preview Assets.xcassets */; };
+		738B7F6328FFF9EB0008666D /* DissolveSedentaryWithSquatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B7F6228FFF9EB0008666D /* DissolveSedentaryWithSquatTests.swift */; };
+		738B7F6D28FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B7F6C28FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.swift */; };
+		738B7F6F28FFF9EB0008666D /* DissolveSedentaryWithSquatUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B7F6E28FFF9EB0008666D /* DissolveSedentaryWithSquatUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		738B7F5F28FFF9EB0008666D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 738B7F4528FFF9E90008666D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 738B7F4C28FFF9E90008666D;
+			remoteInfo = DissolveSedentaryWithSquat;
+		};
+		738B7F6928FFF9EB0008666D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 738B7F4528FFF9E90008666D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 738B7F4C28FFF9E90008666D;
+			remoteInfo = DissolveSedentaryWithSquat;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		738B7F4D28FFF9E90008666D /* DissolveSedentaryWithSquat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DissolveSedentaryWithSquat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		738B7F5028FFF9E90008666D /* DissolveSedentaryWithSquatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DissolveSedentaryWithSquatApp.swift; sourceTree = "<group>"; };
+		738B7F5228FFF9E90008666D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		738B7F5428FFF9EB0008666D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		738B7F5728FFF9EB0008666D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		738B7F5928FFF9EB0008666D /* DissolveSedentaryWithSquat.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DissolveSedentaryWithSquat.entitlements; sourceTree = "<group>"; };
+		738B7F5E28FFF9EB0008666D /* DissolveSedentaryWithSquatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DissolveSedentaryWithSquatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		738B7F6228FFF9EB0008666D /* DissolveSedentaryWithSquatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DissolveSedentaryWithSquatTests.swift; sourceTree = "<group>"; };
+		738B7F6828FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DissolveSedentaryWithSquatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		738B7F6C28FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DissolveSedentaryWithSquatUITests.swift; sourceTree = "<group>"; };
+		738B7F6E28FFF9EB0008666D /* DissolveSedentaryWithSquatUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DissolveSedentaryWithSquatUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		738B7F4A28FFF9E90008666D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		738B7F5B28FFF9EB0008666D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		738B7F6528FFF9EB0008666D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		738B7F4428FFF9E90008666D = {
+			isa = PBXGroup;
+			children = (
+				738B7F4F28FFF9E90008666D /* DissolveSedentaryWithSquat */,
+				738B7F6128FFF9EB0008666D /* DissolveSedentaryWithSquatTests */,
+				738B7F6B28FFF9EB0008666D /* DissolveSedentaryWithSquatUITests */,
+				738B7F4E28FFF9E90008666D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		738B7F4E28FFF9E90008666D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				738B7F4D28FFF9E90008666D /* DissolveSedentaryWithSquat.app */,
+				738B7F5E28FFF9EB0008666D /* DissolveSedentaryWithSquatTests.xctest */,
+				738B7F6828FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		738B7F4F28FFF9E90008666D /* DissolveSedentaryWithSquat */ = {
+			isa = PBXGroup;
+			children = (
+				738B7F5028FFF9E90008666D /* DissolveSedentaryWithSquatApp.swift */,
+				738B7F5228FFF9E90008666D /* ContentView.swift */,
+				738B7F5428FFF9EB0008666D /* Assets.xcassets */,
+				738B7F5928FFF9EB0008666D /* DissolveSedentaryWithSquat.entitlements */,
+				738B7F5628FFF9EB0008666D /* Preview Content */,
+			);
+			path = DissolveSedentaryWithSquat;
+			sourceTree = "<group>";
+		};
+		738B7F5628FFF9EB0008666D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				738B7F5728FFF9EB0008666D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		738B7F6128FFF9EB0008666D /* DissolveSedentaryWithSquatTests */ = {
+			isa = PBXGroup;
+			children = (
+				738B7F6228FFF9EB0008666D /* DissolveSedentaryWithSquatTests.swift */,
+			);
+			path = DissolveSedentaryWithSquatTests;
+			sourceTree = "<group>";
+		};
+		738B7F6B28FFF9EB0008666D /* DissolveSedentaryWithSquatUITests */ = {
+			isa = PBXGroup;
+			children = (
+				738B7F6C28FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.swift */,
+				738B7F6E28FFF9EB0008666D /* DissolveSedentaryWithSquatUITestsLaunchTests.swift */,
+			);
+			path = DissolveSedentaryWithSquatUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		738B7F4C28FFF9E90008666D /* DissolveSedentaryWithSquat */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 738B7F7228FFF9EB0008666D /* Build configuration list for PBXNativeTarget "DissolveSedentaryWithSquat" */;
+			buildPhases = (
+				738B7F4928FFF9E90008666D /* Sources */,
+				738B7F4A28FFF9E90008666D /* Frameworks */,
+				738B7F4B28FFF9E90008666D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DissolveSedentaryWithSquat;
+			productName = DissolveSedentaryWithSquat;
+			productReference = 738B7F4D28FFF9E90008666D /* DissolveSedentaryWithSquat.app */;
+			productType = "com.apple.product-type.application";
+		};
+		738B7F5D28FFF9EB0008666D /* DissolveSedentaryWithSquatTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 738B7F7528FFF9EB0008666D /* Build configuration list for PBXNativeTarget "DissolveSedentaryWithSquatTests" */;
+			buildPhases = (
+				738B7F5A28FFF9EB0008666D /* Sources */,
+				738B7F5B28FFF9EB0008666D /* Frameworks */,
+				738B7F5C28FFF9EB0008666D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				738B7F6028FFF9EB0008666D /* PBXTargetDependency */,
+			);
+			name = DissolveSedentaryWithSquatTests;
+			productName = DissolveSedentaryWithSquatTests;
+			productReference = 738B7F5E28FFF9EB0008666D /* DissolveSedentaryWithSquatTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		738B7F6728FFF9EB0008666D /* DissolveSedentaryWithSquatUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 738B7F7828FFF9EB0008666D /* Build configuration list for PBXNativeTarget "DissolveSedentaryWithSquatUITests" */;
+			buildPhases = (
+				738B7F6428FFF9EB0008666D /* Sources */,
+				738B7F6528FFF9EB0008666D /* Frameworks */,
+				738B7F6628FFF9EB0008666D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				738B7F6A28FFF9EB0008666D /* PBXTargetDependency */,
+			);
+			name = DissolveSedentaryWithSquatUITests;
+			productName = DissolveSedentaryWithSquatUITests;
+			productReference = 738B7F6828FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		738B7F4528FFF9E90008666D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					738B7F4C28FFF9E90008666D = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					738B7F5D28FFF9EB0008666D = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = 738B7F4C28FFF9E90008666D;
+					};
+					738B7F6728FFF9EB0008666D = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = 738B7F4C28FFF9E90008666D;
+					};
+				};
+			};
+			buildConfigurationList = 738B7F4828FFF9E90008666D /* Build configuration list for PBXProject "DissolveSedentaryWithSquat" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 738B7F4428FFF9E90008666D;
+			productRefGroup = 738B7F4E28FFF9E90008666D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				738B7F4C28FFF9E90008666D /* DissolveSedentaryWithSquat */,
+				738B7F5D28FFF9EB0008666D /* DissolveSedentaryWithSquatTests */,
+				738B7F6728FFF9EB0008666D /* DissolveSedentaryWithSquatUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		738B7F4B28FFF9E90008666D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				738B7F5828FFF9EB0008666D /* Preview Assets.xcassets in Resources */,
+				738B7F5528FFF9EB0008666D /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		738B7F5C28FFF9EB0008666D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		738B7F6628FFF9EB0008666D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		738B7F4928FFF9E90008666D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				738B7F5328FFF9E90008666D /* ContentView.swift in Sources */,
+				738B7F5128FFF9E90008666D /* DissolveSedentaryWithSquatApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		738B7F5A28FFF9EB0008666D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				738B7F6328FFF9EB0008666D /* DissolveSedentaryWithSquatTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		738B7F6428FFF9EB0008666D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				738B7F6F28FFF9EB0008666D /* DissolveSedentaryWithSquatUITestsLaunchTests.swift in Sources */,
+				738B7F6D28FFF9EB0008666D /* DissolveSedentaryWithSquatUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		738B7F6028FFF9EB0008666D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 738B7F4C28FFF9E90008666D /* DissolveSedentaryWithSquat */;
+			targetProxy = 738B7F5F28FFF9EB0008666D /* PBXContainerItemProxy */;
+		};
+		738B7F6A28FFF9EB0008666D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 738B7F4C28FFF9E90008666D /* DissolveSedentaryWithSquat */;
+			targetProxy = 738B7F6928FFF9EB0008666D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		738B7F7028FFF9EB0008666D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		738B7F7128FFF9EB0008666D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		738B7F7328FFF9EB0008666D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DissolveSedentaryWithSquat/DissolveSedentaryWithSquat.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"DissolveSedentaryWithSquat/Preview Content\"";
+				DEVELOPMENT_TEAM = 7LA9DQ559N;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = nubo.DissolveSedentaryWithSquat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		738B7F7428FFF9EB0008666D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DissolveSedentaryWithSquat/DissolveSedentaryWithSquat.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"DissolveSedentaryWithSquat/Preview Content\"";
+				DEVELOPMENT_TEAM = 7LA9DQ559N;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = nubo.DissolveSedentaryWithSquat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		738B7F7628FFF9EB0008666D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7LA9DQ559N;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = nubo.DissolveSedentaryWithSquatTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DissolveSedentaryWithSquat.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DissolveSedentaryWithSquat";
+			};
+			name = Debug;
+		};
+		738B7F7728FFF9EB0008666D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7LA9DQ559N;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = nubo.DissolveSedentaryWithSquatTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DissolveSedentaryWithSquat.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DissolveSedentaryWithSquat";
+			};
+			name = Release;
+		};
+		738B7F7928FFF9EB0008666D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7LA9DQ559N;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = nubo.DissolveSedentaryWithSquatUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = DissolveSedentaryWithSquat;
+			};
+			name = Debug;
+		};
+		738B7F7A28FFF9EB0008666D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7LA9DQ559N;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = nubo.DissolveSedentaryWithSquatUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = DissolveSedentaryWithSquat;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		738B7F4828FFF9E90008666D /* Build configuration list for PBXProject "DissolveSedentaryWithSquat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				738B7F7028FFF9EB0008666D /* Debug */,
+				738B7F7128FFF9EB0008666D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		738B7F7228FFF9EB0008666D /* Build configuration list for PBXNativeTarget "DissolveSedentaryWithSquat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				738B7F7328FFF9EB0008666D /* Debug */,
+				738B7F7428FFF9EB0008666D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		738B7F7528FFF9EB0008666D /* Build configuration list for PBXNativeTarget "DissolveSedentaryWithSquatTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				738B7F7628FFF9EB0008666D /* Debug */,
+				738B7F7728FFF9EB0008666D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		738B7F7828FFF9EB0008666D /* Build configuration list for PBXNativeTarget "DissolveSedentaryWithSquatUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				738B7F7928FFF9EB0008666D /* Debug */,
+				738B7F7A28FFF9EB0008666D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 738B7F4528FFF9E90008666D /* Project object */;
+}
